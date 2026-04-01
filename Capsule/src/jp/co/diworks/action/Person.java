@@ -2,9 +2,9 @@ package jp.co.diworks.action;
 
 public class Person {
 	
-	public String name = null;
+	private String name = null;
 	
-	public int age = 0;
+	private int age = 0;
 	
 	public Person (String name,int age) {
 	
