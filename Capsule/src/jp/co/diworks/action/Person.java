@@ -22,5 +22,15 @@ public class Person {
 		
 		this.name = name;
 	}
+	
+	public int getAge() {
+		
+		return this.age;
+	}
+	
+	public void setAge(int age) {
+		
+		this.age = age;
+	}
 
 }
